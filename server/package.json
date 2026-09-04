@@ -1,0 +1,13 @@
+{
+  "name": "sports-club-management-server",
+  "version": "1.0.0",
+  "description": "REST API for the Sports Club Management System",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
